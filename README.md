@@ -14,7 +14,7 @@
 <img aling="left" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/768px-Python.svg.png"/>
 </a>
 <a href="https://github.com/Viinky-Kevs">
-<img aling="left" alt="R" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2rLkJzbPUxXq3BaPimgkX8xVrR2nDF0GQHoHEQvKN9YCyYSELJlHqD9Hs2A3JdNwmfv0&usqp=CAU"/>
+<img aling="left" alt="R" width="40px" src="https://cdn-icons-png.flaticon.com/512/2103/2103665.png"/>
 </a>
 <a href="https://github.com/Viinky-Kevs">
 <img aling="left" alt="Dart" width="40px" src="https://img.icons8.com/color/480/dart.png"/>
