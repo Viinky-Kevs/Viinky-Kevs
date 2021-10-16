@@ -20,5 +20,8 @@
 <img aling="left" alt="Dart" width="40px" src="https://img.icons8.com/color/480/dart.png"/>
 </a>
 <a href="https://github.com/Viinky-Kevs">
-<img aling="left" alt="Julia" width="40px" src="https://w7.pngwing.com/pngs/261/785/png-transparent-julia-high-level-programming-language-dynamic-programming-language-computer-programming-julie-text-logo-computer-programming.png"/>
+<img aling="left" alt="Julia" width="40px" src="https://image.pngaaa.com/433/4796433-middle.png"/>
+</a>
+<a href="https://github.com/Viinky-Kevs">
+<img aling="left" alt="Django" width="40px" src="https://image.pngaaa.com/262/4152262-middle.png"/>
 </a>
