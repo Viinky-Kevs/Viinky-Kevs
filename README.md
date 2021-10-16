@@ -11,4 +11,6 @@
 
 ## Languages and Tools
 
-[<img aling="left" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/768px-Python.svg.png"/>][github]
+<img aling="left" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/768px-Python.svg.png"/>
+
+
