@@ -28,4 +28,10 @@
 <a href="https://github.com/Viinky-Kevs">
 <img aling="left" alt="Flask" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/flask-51-285137.png"/>
 </a>
+<a href="https://github.com/Viinky-Kevs">
+<img aling="left" alt="Shiny" width="40px" src="https://www.indexmic.com/images/r-packages/shiny.png"/>
+</a>
 
+<a href="https://github.com/Viinky-Kevs">
+<img aling="left" alt="VScode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"/>
+</a>
