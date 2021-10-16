@@ -23,5 +23,5 @@
 <img aling="left" alt="Julia" width="40px" src="https://image.pngaaa.com/433/4796433-middle.png"/>
 </a>
 <a href="https://github.com/Viinky-Kevs">
-<img aling="left" alt="Django" width="40px" src="https://image.pngaaa.com/262/4152262-middle.png"/>
+<img aling="left" alt="Django" width="40px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"/>
 </a>
