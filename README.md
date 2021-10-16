@@ -20,8 +20,9 @@
 <img aling="left" alt="Dart" width="40px" src="https://img.icons8.com/color/480/dart.png"/>
 </a>
 <a href="https://github.com/Viinky-Kevs">
-<img aling="left" alt="Julia" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG02bcLGHeGIij9AVdpDSo2D6XsE3ztJAKUKX2AacZqHwWOfV13ZDP1-bQp1qiokb1Aq4&usqp=CAU"/>
+<img aling="left" alt="Julia" width="40px" src="https://github.com/JuliaLang/julia-logo-graphics/blob/master/images/julia-logo-color.png"/>
 </a>
 <a href="https://github.com/Viinky-Kevs">
 <img aling="left" alt="Django" width="40px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"/>
 </a>
+
