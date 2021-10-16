@@ -25,4 +25,7 @@
 <a href="https://github.com/Viinky-Kevs">
 <img aling="left" alt="Django" width="40px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"/>
 </a>
+<a href="https://github.com/Viinky-Kevs">
+<img aling="left" alt="Flask" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/flask-51-285137.png"/>
+</a>
 
