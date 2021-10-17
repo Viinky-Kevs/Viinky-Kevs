@@ -31,7 +31,15 @@
 <a href="https://github.com/Viinky-Kevs">
 <img aling="left" alt="Shiny" width="40px" src="https://www.indexmic.com/images/r-packages/shiny.png"/>
 </a>
-
 <a href="https://github.com/Viinky-Kevs">
 <img aling="left" alt="VScode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"/>
 </a>
+<a href="https://github.com/Viinky-Kevs">
+<img aling="left" alt="HTML5" width="40px" src="https://img.flaticon.com/icons/png/512/174/174854.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF"/>
+</a>
+<a href="https://github.com/Viinky-Kevs">
+<img aling="left" alt="CSS3" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"/>
+</a>
+
+
+
