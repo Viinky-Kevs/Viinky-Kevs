@@ -38,7 +38,7 @@
 <img aling="left" alt="HTML5" width="40px" src="https://image.flaticon.com/icons/png/512/888/888859.png"/>
 </a>
 <a href="https://github.com/Viinky-Kevs">
-<img aling="left" alt="CSS3" width="40px" src="https://e1.pngegg.com/pngimages/326/868/png-clipart-css3-badge-blue-and-white-css-icon-thumbnail.png"/>
+<img aling="left" alt="CSS3" width="40px" src="https://img2.freepng.es/20180619/fwl/kisspng-web-development-html-cascading-style-sheets-css3-b-minimalist-resume-5b29b19ed3e716.037890201529459102868.jpg"/>
 </a>
 
 
