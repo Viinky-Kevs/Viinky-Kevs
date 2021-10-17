@@ -38,7 +38,7 @@
 <img aling="left" alt="HTML5" width="40px" src="https://image.flaticon.com/icons/png/512/888/888859.png"/>
 </a>
 <a href="https://github.com/Viinky-Kevs">
-<img aling="left" alt="CSS3" width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919826.png"/>
+<img aling="left" alt="CSS3" width="40px" src="https://image.pngaaa.com/954/4178954-middle.png"/>
 </a>
 
 
