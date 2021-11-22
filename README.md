@@ -29,7 +29,7 @@
 <img aling="left" alt="Flask" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/flask-51-285137.png"/>
 </a>
 <a href="https://github.com/Viinky-Kevs">
-<img aling="left" alt="Shiny" width="40px" src="https://i1.wp.com/www.geekosas.com/wp-content/uploads/2019/03/shiny-logo.png?fit=321%2C325&ssl=1"/>
+<img aling="left" alt="Shiny" width="40px" src="https://www.worldbank.org/content/dam/photos/780x439/2021/apr/Shiny-logo.png"/>
 </a>
 <a href="https://github.com/Viinky-Kevs">
 <img aling="left" alt="VScode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"/>
